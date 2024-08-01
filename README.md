@@ -11,10 +11,15 @@
 
 Для использования нужно установить библиотеки из requirments.txt
 
+Файл для запуска - detetminant.py
+
 Так же нужно в папке проекта создать папку geowac и в нее распаковать содержимок архива:
+
 https://drive.google.com/file/d/1r83gtBktdXBgdfxlsevUZbOsubpnlRlN/view?usp=drive_link
 
+
 В папку проекта нужно догрузить файл ruwordnet.db: 
+
 https://drive.google.com/file/d/1RKCAN-6hO4Oqaswh2bMZaU4iMR7CyxHL/view?usp=drive_link
 
 Файлы слишком большие, поэтому я не смог их загрузить на Гитхаб
